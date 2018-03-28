@@ -6,6 +6,8 @@ participants = input("Please enter a list with names of participants (write this
 
 group_size = 3
 overflow = 'n'
+# My re-entry into Python...and git 28/03/18
+
 # Check to see if possible to make well-balanced groups
 # Assume overflow never happens
 # 10/10/16
